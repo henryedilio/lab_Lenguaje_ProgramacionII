@@ -1,0 +1,32 @@
+public class MachinePannel {
+
+public static void main(String[] args){
+
+
+System.out.println("      ,i '         ");
+System.out.println("    ,' 8b '         ");
+System.out.println("  , o  `8b '         ");
+System.out.println("    Y8. d8  '         ");
+System.out.println("-+._ 8: d8. i:         ");
+System.out.println("    `:8 `8i `8         ");        
+System.out.println("      `._Y8  8:  ___         ");
+System.out.println("         `'---Yjdp   8m._         ");
+System.out.println("              ,   _,o9   `m._         ");
+System.out.println("              | o8P    _.8d8P`-._         ");
+System.out.println("              :8'   _oodP    ,dP'`-._         ");
+System.out.println("               `: dd8P'   ,odP'  do8'`.         ");
+System.out.println("                 `-'   ,o8P'  ,o8P' ,8P`.         ");
+System.out.println("                   `._dP'   ddP'  ,8P' ,..         ");
+System.out.println("                       `._ PP'  ,8P' _d8'L..__         ");
+System.out.println("                          `-._88'  .PP,'7 ,8.`-.._         ");
+System.out.println("                               ``' -- '  | d8' :8i `i.         ");
+System.out.println("                                         l d8  d8  dP/         ");
+System.out.println("                                          '`' J8' `P'         ");
+System.out.println("                                           ' ,8F  87         ");
+System.out.println("                                           `.88  ,'         ");
+System.out.println("                                            `.,-' mh         ");
+
+  Machine machine1 = new Machine(); 
+  machine1.selectSnack();
+  
+}}
